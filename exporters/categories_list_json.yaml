@@ -1,0 +1,6 @@
+exporter_name: categories_list_json
+exporter_type: json
+collection: categories_list
+write_mode: pretty_array
+offset: 0
+order: desc
