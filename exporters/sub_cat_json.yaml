@@ -1,6 +1,6 @@
-exporter_name: categories_list_json
+exporter_name: sub_cat_json
 exporter_type: json
-collection: categories_list
+collection: sub_categories
 write_mode: pretty_array
 offset: 0
 order: desc

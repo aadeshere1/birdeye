@@ -24,3 +24,5 @@ listing.each do |cat|
 end
 
 all_categories["_collection"] = "categories_list"
+
+outputs << all_categories

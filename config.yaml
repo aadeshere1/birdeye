@@ -8,3 +8,7 @@ parsers:
   - page_type: categories
     file: ./parsers/categories.rb
     disabled: false
+exporters:
+  - file: ./exporters/categories_list_json.yaml
+    disabled: false
+  - file: ./exporters/sub_cat_json.yaml
