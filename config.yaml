@@ -5,3 +5,6 @@ parsers:
   - page_type: listings
     file: ./parsers/listings.rb
     disabled: false
+  - page_type: categories
+    file: ./parsers/categories.rb
+    disabled: false
