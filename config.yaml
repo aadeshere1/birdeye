@@ -8,6 +8,8 @@ parsers:
   - page_type: categories
     file: ./parsers/categories.rb
     disabled: false
+  - page_type: reviews
+    file: ./parsers/reviews.rb
 exporters:
   - file: ./exporters/categories_list_json.yaml
     disabled: false
