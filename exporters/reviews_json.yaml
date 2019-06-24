@@ -1,0 +1,7 @@
+exporter_name: reviews_json
+exporter_type: json
+collection: reviews
+write_mode: pretty_array
+offset: 0
+order: desc
+start_on_job_done: true
