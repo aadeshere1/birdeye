@@ -12,3 +12,6 @@ exporters:
   - file: ./exporters/categories_list_json.yaml
     disabled: false
   - file: ./exporters/sub_cat_json.yaml
+    disabled: false
+  - file: ./exporters/reviews_json.yaml
+    disabled: false
